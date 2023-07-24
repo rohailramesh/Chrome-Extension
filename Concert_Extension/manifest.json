@@ -1,0 +1,11 @@
+{
+  "name": "Upcoming concerts in London",
+  "version": "1.0.0",
+  "description": "List of upcoming concerts in London",
+  "manifest_version": 3,
+  "author": "Rohail Ramesh",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Upcoming concerts in London"
+  }
+}
